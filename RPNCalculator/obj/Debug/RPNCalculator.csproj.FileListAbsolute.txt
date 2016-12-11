@@ -1,0 +1,10 @@
+D:\CSD Workshop\RPNCalculator\RPNCalculator\bin\Debug\RPNCalculator.exe.config
+D:\CSD Workshop\RPNCalculator\RPNCalculator\bin\Debug\RPNCalculator.exe
+D:\CSD Workshop\RPNCalculator\RPNCalculator\bin\Debug\RPNCalculator.pdb
+D:\CSD Workshop\RPNCalculator\RPNCalculator\bin\Debug\nunit.framework.dll
+D:\CSD Workshop\RPNCalculator\RPNCalculator\bin\Debug\nunit.framework.xml
+D:\CSD Workshop\RPNCalculator\RPNCalculator\obj\Debug\RPNCalculator.Properties.Resources.resources
+D:\CSD Workshop\RPNCalculator\RPNCalculator\obj\Debug\RPNCalculator.csproj.GenerateResource.Cache
+D:\CSD Workshop\RPNCalculator\RPNCalculator\obj\Debug\RPNCalculator.exe
+D:\CSD Workshop\RPNCalculator\RPNCalculator\obj\Debug\RPNCalculator.pdb
+D:\CSD Workshop\RPNCalculator\RPNCalculator\obj\Debug\RPNCalculator.csprojResolveAssemblyReference.cache
